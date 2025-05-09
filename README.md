@@ -25,7 +25,7 @@ This project is developed as a part of the **6th Semester Major Project** for ou
 - 🧑‍💻 Md. Tanweer [0191CS221D10] - (UI/UX Developer & Documentation Lead)
 
 ###Collage: Technocrats institute of Technology, Bhopal
-###Branch: Computer Science & Engineering    ###Semester: 6th
+#Branch: Computer Science & Engineering    
 
 
 
