@@ -13,7 +13,6 @@ A Spring Boot web application that allows users to authenticate via **Google OAu
 - 🧪 Easy testing with OAuth test users
 
 ---
----
 
 ## 🔧 Technologies Used
 
