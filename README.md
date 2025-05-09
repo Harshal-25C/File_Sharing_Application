@@ -15,20 +15,6 @@ A Spring Boot web application that allows users to authenticate via **Google OAu
 ---
 ---
 
-## 👨‍💻 Team Members
-
-This project is developed as a part of the **6th Semester Major Project** for our Computer Science & Engineering curriculum.
-
-- 🧑‍💻 Fahad Ali [0191CS221080] - (OAuth & Security Integration Lead)
-- 🧑‍💻 Harish Dangi [0191CS221085] - (Backend Developer)
-- 🧑‍💻 Harshal Choudhary [0191CS221089] - (Database Architect & API Designer)
-- 🧑‍💻 Md. Tanweer [0191CS221D10] - (UI/UX Developer & Documentation Lead)
-
-###Collage: Technocrats institute of Technology, Bhopal
-#Branch: Computer Science & Engineering    
-
-
-
 ## 🔧 Technologies Used
 
 - Java 17+
