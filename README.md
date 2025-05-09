@@ -78,7 +78,7 @@ spring.security.oauth2.client.registration.github.client-id=${github_id}
 spring.security.oauth2.client.registration.github.client-secret=${github_secret}
 ```
 
-# Running the App
+## Running the App
 ```bash
 ./mvnw spring-boot:run
 ```
@@ -87,3 +87,8 @@ Then visit:
 ```bash
 http://localhost:8080/oauth2/authorization/google
 ```
+## TODO
+- Add file upload/download features
+- Add user dashboard after login
+- Deploy to cloud (e.g., Render, Heroku, GCP)
+
